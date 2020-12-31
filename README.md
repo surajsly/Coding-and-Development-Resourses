@@ -11,4 +11,7 @@
 * [Complete Placement Preparation By ](https://github.com/anushka23g/Complete-Placement-Preparation) [**@anushka23g**](https://github.com/anushka23g)
 * [Cracking The Coding Interview Python Solutions and Explanations By](https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations)  [**@arpan74**](https://github.com/arpan74)
 
+## Books
+* [Python and Linux books](https://drive.google.com/drive/folders/1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
+
 
