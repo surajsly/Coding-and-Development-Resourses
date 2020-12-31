@@ -2,6 +2,10 @@
 
 ## Development Resourses
 
+
 ## Coding Resourses
 
-## Interview Resourses
+
+## Placement Resourses
+* [Complete Placement Preparation Github repo By @anushka23g](https://github.com/anushka23g/Complete-Placement-Preparation)
+
