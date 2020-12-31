@@ -7,7 +7,7 @@
 ## Coding Resourses
 * [coding interview university](https://github.com/jwasham/coding-interview-university) [**@jwasham**](https://github.com/jwasham)
 * [450 DSA tracker](https://450-dsa-tracker.netlify.app/)
-
+* [100 days of code a complete guide for beginners and experienced](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 
 ## Placement Resourses
 * [Complete Placement Preparation By ](https://github.com/anushka23g/Complete-Placement-Preparation) [**@anushka23g**](https://github.com/anushka23g)
