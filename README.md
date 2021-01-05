@@ -15,6 +15,9 @@
 * [Complete Placement Preparation By ](https://github.com/anushka23g/Complete-Placement-Preparation) [**@anushka23g**](https://github.com/anushka23g)
 * [Cracking The Coding Interview Python Solutions and Explanations By](https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations)  [**@arpan74**](https://github.com/arpan74)
 * [Company wise Placement Material ~ Google drive](https://drive.google.com/drive/folders/1SkCOcAS0Kqvuz-MJkkjbFr1GSue6Ms6m)
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
+* [Research intern programmes](https://docs.google.com/spreadsheets/d/1_js0NxcOlXwwZVeWYZ_O38SLrjlSg2OHpQ03Pt5vW1A/edit?usp=sharing)
+* [DBMS Roadmap By Love Babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 
 ## Books
 * [Python and Linux books](https://drive.google.com/drive/folders/1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
