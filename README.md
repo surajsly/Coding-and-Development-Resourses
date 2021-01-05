@@ -9,6 +9,7 @@
 * [450 DSA tracker](https://450-dsa-tracker.netlify.app/)
 * [100 days of code a complete guide for beginners and experienced](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 * [33 JS concepts](https://github.com/leonardomso/33-js-concepts) [**@leonardomso**](https://github.com/leonardomso)
+* [cppcheatsheet](https://cppcheatsheet.com/)
 
 ## Placement Resourses
 * [Computer Science Open Source Society University](https://github.com/ossu/computer-science) [**@ossu**](https://github.com/ossu)
@@ -18,8 +19,9 @@
 * [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 * [Research intern programmes](https://docs.google.com/spreadsheets/d/1_js0NxcOlXwwZVeWYZ_O38SLrjlSg2OHpQ03Pt5vW1A/edit?usp=sharing)
 * [DBMS Roadmap By Love Babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
+* [SDE Problems](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
 ## Books
 * [Python and Linux books](https://drive.google.com/drive/folders/1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
-
+* [Development Books](https://drive.google.com/drive/folders/1aXlI-fNsCGmwrFLjSSkHA3FSTClnSSnb)
 
