@@ -26,4 +26,4 @@
 > * [Development Books](https://drive.google.com/drive/folders/1aXlI-fNsCGmwrFLjSSkHA3FSTClnSSnb)
 
 ## Live Event 
-### > * [Chrome Dev Summit, India on Jan 09, 2021](https://cds.webdevsin.com/)
+### >  [Chrome Dev Summit, India on Jan 09, 2021](https://cds.webdevsin.com/)
