@@ -3,6 +3,7 @@
 ## Development Resourses
 > * [front end interview handbook By](https://github.com/yangshun/front-end-interview-handbook) [**@yangshun**](https://github.com/yangshun) 
 > * [50projects50days By](https://github.com/bradtraversy/50projects50days) [**@bradtraversy**](https://github.com/bradtraversy)
+> * [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## Coding Resourses
 > * [coding interview university](https://github.com/jwasham/coding-interview-university) [**@jwasham**](https://github.com/jwasham)
