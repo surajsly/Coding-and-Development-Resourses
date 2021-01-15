@@ -27,6 +27,7 @@
 > * [Development Books](https://drive.google.com/drive/folders/1aXlI-fNsCGmwrFLjSSkHA3FSTClnSSnb)
 
 ## Live Event 
+### > [Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
 
 ## Past Event
 ### >  [Chrome Dev Summit, India on Jan 09, 2021](https://cds.webdevsin.com/)
