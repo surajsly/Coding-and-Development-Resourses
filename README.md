@@ -31,6 +31,6 @@
 ## Past Event
 ### >  [Chrome Dev Summit, India on Jan 09, 2021](https://cds.webdevsin.com/)
 
-## Important Post
+## Post and Blogs
 > * [GSoC 2021 Aspirants check this out](https://www.linkedin.com/posts/ashupdsce_gsoc-google-faang-activity-6755043985032642560-sIgJ)
 
