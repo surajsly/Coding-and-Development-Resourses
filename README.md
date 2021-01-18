@@ -25,7 +25,10 @@
 ### Company Based Material
 > * [TCS](https://drive.google.com/open?id=1XN8w1Q9akk1IagpaSPDKVowlVCQJ1tV8)
 > * [CTS](https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt-)
-> * []
+> * [WIPRO](https://drive.google.com/open?id=15WDPKzntkQ0ux1-qXZhQ6MQ-IjSgYZWE)
+> * [INFOSYS](https://drive.google.com/open?id=1A0so4BGzkynu4k9T0hl-c6yokMBlMQiF)
+> * [AMCAT](https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d)
+
 
 ## Books
 > * [Python and Linux books](https://drive.google.com/drive/folders/1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
