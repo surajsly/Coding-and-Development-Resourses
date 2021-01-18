@@ -10,7 +10,7 @@
 > * [450 DSA tracker](https://450-dsa-tracker.netlify.app/)
 > * [100 days of code a complete guide for beginners and experienced](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 > * [33 JS concepts](https://github.com/leonardomso/33-js-concepts) [**@leonardomso**](https://github.com/leonardomso)
-> * [cppcheatsheet](https://cppcheatsheet.com/)
+> * [CPP cheatsheet](https://cppcheatsheet.com/)
 
 ## Placement Resourses
 > * [Computer Science Open Source Society University](https://github.com/ossu/computer-science) [**@ossu**](https://github.com/ossu)
@@ -27,7 +27,7 @@
 > * [Cognizant - CTS](https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt-)
 > * [WIPRO](https://drive.google.com/open?id=15WDPKzntkQ0ux1-qXZhQ6MQ-IjSgYZWE)
 > * [INFOSYS](https://drive.google.com/open?id=1A0so4BGzkynu4k9T0hl-c6yokMBlMQiF)
-> * [ Aspiring Minds Computer Adaptive Test - AMCAT](https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d)
+> * [Aspiring Minds Computer Adaptive Test - AMCAT](https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d)
 
 
 ## Books
@@ -35,7 +35,7 @@
 > * [Development Books](https://drive.google.com/drive/folders/1aXlI-fNsCGmwrFLjSSkHA3FSTClnSSnb)
 
 ## Live Event 
-### > [Hash Code](https://codingcompetitions.withgoogle.com/hashcode/)
+### > [Google Hash Code 2021](https://codingcompetitions.withgoogle.com/hashcode/)
 
 ## Past Event
 ### >  [Chrome Dev Summit, India on Jan 09, 2021](https://cds.webdevsin.com/)
