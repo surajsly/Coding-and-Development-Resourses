@@ -23,11 +23,11 @@
 > * [SDE Problems](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
 ### Company Based Material
-> * [TCS](https://drive.google.com/open?id=1XN8w1Q9akk1IagpaSPDKVowlVCQJ1tV8)
-> * [CTS](https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt-)
+> * [Tata Consultancy Services - TCS](https://drive.google.com/open?id=1XN8w1Q9akk1IagpaSPDKVowlVCQJ1tV8)
+> * [Cognizant - CTS](https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt-)
 > * [WIPRO](https://drive.google.com/open?id=15WDPKzntkQ0ux1-qXZhQ6MQ-IjSgYZWE)
 > * [INFOSYS](https://drive.google.com/open?id=1A0so4BGzkynu4k9T0hl-c6yokMBlMQiF)
-> * [AMCAT](https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d)
+> * [ Aspiring Minds Computer Adaptive Test - AMCAT](https://drive.google.com/open?id=1vPCyQnc844BK9jsTKQ7WIzcGpx3r3J-d)
 
 
 ## Books
