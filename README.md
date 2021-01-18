@@ -22,6 +22,11 @@
 > * [DBMS Roadmap By Love Babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 > * [SDE Problems](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit)
 
+### Company Based Material
+> * [TCS](https://drive.google.com/open?id=1XN8w1Q9akk1IagpaSPDKVowlVCQJ1tV8)
+> * [CTS](https://drive.google.com/open?id=1a-HWjvdfAb4t3xo0O_R8_kwlqGs6Ipt-)
+> * []
+
 ## Books
 > * [Python and Linux books](https://drive.google.com/drive/folders/1uAfpfac3FsJevBg9CYV4Gi65MAYd9V4I)
 > * [Development Books](https://drive.google.com/drive/folders/1aXlI-fNsCGmwrFLjSSkHA3FSTClnSSnb)
