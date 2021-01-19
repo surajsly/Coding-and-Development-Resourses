@@ -10,6 +10,7 @@
 > * [450 DSA tracker](https://450-dsa-tracker.netlify.app/)
 > * [100 days of code a complete guide for beginners and experienced](https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 > * [33 JS concepts](https://github.com/leonardomso/33-js-concepts) [**@leonardomso**](https://github.com/leonardomso)
+> * [C++ datas tructures algorithms coding blocks](https://github.com/surajsly/cplusplus-datastructures-algorithms-coding-blocks)
 > * [CPP cheatsheet](https://cppcheatsheet.com/)
 
 ## Placement Resourses
