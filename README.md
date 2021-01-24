@@ -43,4 +43,4 @@
 
 ## Post and Blogs
 > * [GSoC 2021 Aspirants check this out](https://www.linkedin.com/posts/ashupdsce_gsoc-google-faang-activity-6755043985032642560-sIgJ)
-
+> * [Learn Anything - Find most effective path to learn any thing](https://learn-anything.xyz/)
